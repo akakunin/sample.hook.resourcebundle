@@ -1,0 +1,4 @@
+Bundle-Name: sample.hook.resourcebundle
+Bundle-SymbolicName: sample.hook.resourcebundle
+Bundle-Version: 1.0.0
+-sources: true
